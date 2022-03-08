@@ -1,0 +1,14 @@
+{
+  "name": "typescript-auto-import-bug",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Sampo Juustila",
+  "license": "ISC",
+  "dependencies": {
+    "typescript": "^4.6.2"
+  }
+}
